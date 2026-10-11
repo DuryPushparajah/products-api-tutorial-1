@@ -20,7 +20,7 @@ public class Product {
         return id;
     }
 
-    public String getName() {
+    public String getName()  {
         return name;
     }
 
